@@ -66,7 +66,7 @@ public class p {
 		case'N':
 			break;
 			default:
-				System.out.println(" -_-");
+				System.out.println("-_____-");
 				break;	
 		}	
 		}while(reponse=='O');
